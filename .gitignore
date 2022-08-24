@@ -1,1 +1,8 @@
 data/preprocessed/
+mlruns/
+__pycache__
+old_
+temp_*
+*.ipynb
+*_inter*
+data/processed/
